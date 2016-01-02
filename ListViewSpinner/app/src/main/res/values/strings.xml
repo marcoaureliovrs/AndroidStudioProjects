@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ListViewSpinner</string>
+    <string name="action_settings">Settings</string>
+    <string name="lbl_valor">Valor</string>
+    <string name="lbl_adicionar">Adicionar</string>
+    <string name="lbl_excluir">Excluir</string>
+</resources>

@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Intent</string>
+    <string name="action_settings">Settings</string>
+    <string name="lbl_chamar_browser">Chamar Browser</string>
+    <string name="title_activity_chamar_browser">ChamarBrowserActivity</string>
+    <string name="lbl_abrir_browser">Abrir Browser</string>
+
+    <string name="msg_url_invalida">URL Inválida</string>
+    <string name="ok">OK</string>
+    <string name="title_activity_fazer_ligacao">FazerLigacaoActivity</string>
+    <string name="lbl_fazer_ligacao">Fazer Ligação</string>
+    <string name="title_activity_parametros">ParametrosActivity</string>
+    <string name="lbl_confirmar">Confirmar</string>
+    <string name="lbl_cancelar">Cancelar</string>
+    <string name="lbl_exemplo_parametros">Exemplo Parâmetros</string>
+</resources>

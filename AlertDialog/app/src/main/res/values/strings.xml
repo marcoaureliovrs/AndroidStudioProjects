@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Aler tDialog</string>
+    <string name="action_settings">Configurações</string>
+    <string name="lbl_Ok">Ok</string>
+</resources>
